@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "iransans";
+  src: url("../assets/fonts/iransansdn.woff");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "iransansbold";
+  src: url("../assets/fonts/iransansdnbold.woff");
+  font-style: normal;
+  font-weight: normal;
+}@font-face {
+  font-family: "vazirmatn";
+  src: url("../assets/fonts/Vazirmatn-Regular.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
